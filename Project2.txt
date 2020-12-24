@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web Application</title>
+</head>
+<body>
+	<h2>Bank Account Details</h2>
+	<form>
+		<label>Bank name:</label>
+		<input type="text" name="b_name" placeholder="enter bank name">
+		<br><br>
+		<label>Branch:</label>
+		<input type="text" name="br_name" placeholder="enter your branch">
+		<br><br>
+		<label>Account Holder name:</label>
+		<input type="text" name="acc_name" placeholder="enter account holder name">
+		<br><br>
+		<label>Account Number:</label>
+		<input type="text" name="acc_no" placeholder="enter account number">
+		<br><br>
+		<label>Account Type:</label>
+		<input type="text" name="acc_type" placeholder="enter account type">
+		<br><br>
+		<label>Bank code:</label>
+		<input type="text" name="br_code" placeholder="enter your bank code">
+		<br><br>
+	</form>
+</body>
+</html>
